@@ -9,6 +9,8 @@
 
 **Key Topics**: Rent, Affordability, Vacancy Rates, New Construction, Secondary suites, Income
 
+**Data Types**: ArcGIS package and excel sheets
+
 All the data used is compiled in the All_Data_CT_Matched excel
 
 **Methods**
