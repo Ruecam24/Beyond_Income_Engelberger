@@ -1,7 +1,10 @@
 # Beyond_Income_Engelberger
 **Dataset Name**: Beyond Income
+
 **Author Info**: Tia Enelberger - University of Calgary Student - tia.engelberger@ucalgary.ca
+
 **Data Collection**: Collected September 2024- November 2024, data originally from 2021
+
 **Geographic Location**: Calgary, Alberta Canada
 
 **Key Topics**: Rent, Affordability, Vacancy Rates, New Construction, Secondary suites, Income
